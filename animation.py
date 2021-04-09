@@ -1,6 +1,6 @@
 import pygame, sys
 from pygame.locals import *
-
+# i give full credit to AL stewart making games. for teaching pygame- an interesting way of seeing 
 pygame.init()
 
 FPS = 30 # frames per second setting
