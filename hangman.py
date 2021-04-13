@@ -1,4 +1,5 @@
 # this an hangman exercise. i hope it is good, i have tremendous help from a book
+# basics of programming, i feel an easy game like this should be thought... it simplw and uses the basics of programming
 import random
 HANGMAN_PICS = ['''
     +---+
